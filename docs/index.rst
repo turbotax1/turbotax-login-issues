@@ -7,11 +7,11 @@ How to Troubleshoot TurboTax Login Issues? 🔍
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: login.png
+.. image:: support1.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/turbotax-login-account
+   :target: https://getchatsupport.live/
 __________
 
 TurboTax is one of the most popular tax preparation tools used by millions of individuals and businesses across the United States. However, even the most reliable platforms can sometimes present login problems. TurboTax login issues can be frustrating, especially when you're trying to meet tax deadlines or update important financial information.
